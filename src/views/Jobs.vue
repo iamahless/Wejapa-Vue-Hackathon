@@ -1,7 +1,7 @@
 <template>
   <div class="o-page">
     <div class="container">
-      <div class="row u-justify-center">
+      <div class="row u-justify-center u-mt-xlarge">
         <div class="col-lg-8 u-text-center">
           <h2 class="u-mb-small">Hello {{ name }}, Welcome to WeJapa :)</h2>
           <p class="u-text-large u-mb-large">

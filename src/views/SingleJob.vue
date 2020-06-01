@@ -1,7 +1,7 @@
 <template>
    <div class="o-page">
       <div class="container">
-         <div class="row u-mt-large">
+         <div class="row u-mt-xlarge">
             <div class="col-md-8 u-m-auto">
                <div class="row">
                   <div class="col-xl-12 u-m-auto u-text-left">
